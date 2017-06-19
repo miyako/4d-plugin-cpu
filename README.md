@@ -21,3 +21,11 @@ Parameter|Type|Description
 ------------|------------|----
 type|LONGINT|``Number of processor cores`` or ``Number of logical processors``
 count|LONGINT|
+
+### Examples
+
+```
+$count:=CPU Get count (Number of processor cores)
+
+$count:=CPU Get count (Number of logical processors)
+```
