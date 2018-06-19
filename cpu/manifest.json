@@ -1,0 +1,11 @@
+﻿{
+	"name": "CPU",
+	"id": 20000,
+	"commands": [
+							 {
+							 "theme": "CPU",
+							 "syntax": "CPU Get count(&L):L",
+							 "threadSafe": true
+							 }
+							 ]
+}
